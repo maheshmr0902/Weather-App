@@ -86,9 +86,10 @@ Option to add new cities to your dashboard
 👤 Mahesh Nunnaboyina
 📍 Based in India | Open to hybrid work
 📧 Email: maheshmr0902@gmail.com
-💼 GitHub: @maheshmr0902
-🔗 LinkedIn: @mahesh-nunnaboyina-mr
-🌐 Portfolio: maheshmr0902.github.io/portfolio
+💼 GitHub: [https://github.com/maheshmr0902](https://github.com/maheshmr0902)
+🔗 LinkedIn: https://www.linkedin.com/in/mahesh-nunnaboyina-mr/
+🌐 Portfolio:https://mahesh-nunnaboyina-portfolio.netlify.app/
+
 
 🙌 Acknowledgments
 OpenWeatherMap for the free API.
